@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    font-family: 'Righteous', cursive !important;
+    color: aquamarine !important;
+    background-image: url("BACKGROUND.jpg");
+    background-size: cover;
+}
+#img{
+    float: left;
+}
+#img1{
+    float: right;
+}
+#Vol{
+    background-color: black;
+}
+#Vel{
+    background-color: black;
+}
